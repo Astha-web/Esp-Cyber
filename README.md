@@ -189,6 +189,6 @@ wifi-security-ids/
 
 ## 👨‍💻 Author
 
-Aditya Khandelwal
+Astha Chakraborty
 B.Tech CSE (Cyber Security)
 SOC Analyst Aspirant
